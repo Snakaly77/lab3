@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Żart na dziś</string>
+    <string name="title">Żart na dziś</string>
+    <string name="lang_system">Systemowy</string>
+    <string name="lang_pl">Polski</string>
+    <string name="lang_en">English</string>
+    <string name="initial_prompt">Naciśnij przycisk, aby wylosować żart</string>
+    <string name="show_joke_btn">Pokaż żart</string>
+    <string name="greeting">Cześć, %1$s! Oto Twój żart numer %2$d.</string>
+    <string name="guest_name">gościu</string>
+
+    <string-array name="jokes">
+        <item>Tester wchodzi do baru. Zamawia piwo. Zamawia 0 piw. Zamawia 999999999 piw. Zamawia jaszczurkę. Zamawia -1 piwa.</item>
+        <item>Na świecie jest 10 rodzajów ludzi: ci, którzy rozumieją system binarny, i ci, którzy go nie rozumieją.</item>
+        <item>Dlaczego programiści wolą ciemny motyw? Bo światło przyciąga robaki (bugi).</item>
+    </string-array>
+
+    <plurals name="jokes_seen">
+        <item quantity="one">Obejrzano %d żart</item>
+        <item quantity="few">Obejrzano %d żarty</item>
+        <item quantity="many">Obejrzano %d żartów</item>
+        <item quantity="other">Obejrzano %d żartu</item>
+    </plurals>
+</resources>

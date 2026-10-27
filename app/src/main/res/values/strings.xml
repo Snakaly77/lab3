@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Joke of the Day</string>
+    <string name="title">Joke of the Day</string>
+    <string name="lang_system">System</string>
+    <string name="lang_pl">Polski</string>
+    <string name="lang_en">English</string>
+    <string name="initial_prompt">Tap the button to hear a joke</string>
+    <string name="show_joke_btn">Show a joke</string>
+    <string name="greeting">Hello, %1$s! Here is your joke number %2$d.</string>
+    <string name="guest_name">guest</string>
+
+    <string-array name="jokes">
+        <item>A tester walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers.</item>
+        <item>There are 10 types of people in the world: those who understand binary, and those who do not.</item>
+        <item>Why do programmers prefer dark mode? Because light attracts bugs.</item>
+    </string-array>
+
+    <plurals name="jokes_seen">
+        <item quantity="one">%d joke seen so far</item>
+        <item quantity="other">%d jokes seen so far</item>
+    </plurals>
+</resources>
